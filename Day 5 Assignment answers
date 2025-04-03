@@ -1,0 +1,60 @@
+1. How can an awareness of the level of expertise among your audience affect the presentation of technical information?
+=If your audience are technical specialists, you can use industry-specific technical terms, assume prior knowledge, and focus on in-depth explanations.
+=If communicating to non-technical users, break down ideas, avoid technical jargon, and use analogies or step-by-step explanations.
+
+2. What are some tips to tailor content for different types of audiences?
+=Use audience analysis (surveys, feedback) to see how much they know.
+=Create several versions of documentation (e.g., new-user guides vs. developer API documentation).
+=Use layered explanation—start with a general overview, and then get into details.
+
+3. How do you measure the current knowledge of your audience so that you don't overwhelm them with jargon?
+=Hold user surveys or feedback.
+=Keep an eye on repeated questions on support forums or customer calls.
+=Provide glossaries or tooltips for technical terms.
+
+4. How do you make your content accessible to people with minimal technical knowledge?
+=Don't use unnecessary technical complexity.
+=Use plain language.
+=Offer step-by-step instructions with screenshots or examples.
+=Offer a FAQs section for explanation.
+
+5. Why should you use plain language instead of technical jargon in your content?
+=Makes it more accessible—users won't feel excluded.
+=Reduces the likelihood of misinterpretation.
+=Improves usability for both technical and non-technical users.
+
+6. Provide examples of how simplification of words improves understanding?
+="Initiate" → "Start"
+="Authenticate" → "Log in"
+="Deploy" → "Set up"
+="Terminate process" → "Stop the program"
+
+7. How do examples and graphics help explain complex concepts better?
+=Examples make abstract concepts more tangible.
+=Diagrams explain process flow better than words.
+=Screenshots allow users to follow through on actions.
+
+8. What types of graphics are best suited for different types of technical information?
+=Diagrams → To depict system architecture or workflows.
+=Charts/Graphs → To show data comparisons or trends.
+=Screenshots → To assist with UI-based tutorials.
+
+9. How do headings and subheadings contribute to the readability and organization of technical content?
+=They break content into chunks, scanning being simpler.
+=Assist in differentiating topics and improving structure.
+=Make it easy to easily locate relevant information.
+
+10. What are some guidelines for creating effective headings and subheadings?
+=Use descriptive, understandable titles (e.g., "How to Install" instead of "Installation").
+=Use consistent typography (same font size, case).
+=Make them short and descriptive.
+
+11. What should you put in the introduction of a README to inform users immediately on what the product does?
+=A brief summary (one or two sentences).
+=The key features and benefits.
+=An example use case.
+
+12. How do you describe briefly the purpose and main features of a product?
+=Use a one-liner: "This tool automates X to help users with Y."
+=List three to five key features using bullet points.
+=Skip any background info not adding crucial value—get to the point!
